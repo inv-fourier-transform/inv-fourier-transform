@@ -1,4 +1,4 @@
-### Hey, thanks for visiting my profile ! I'm Arjun K. 👋
+## Hey, thanks for visiting my profile ! I'm Arjun K. 👋
 
 #### Data Scientist · ML Engineer · AI Enthusiast
 
